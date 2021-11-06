@@ -1,7 +1,7 @@
 # Discord Bot
 I've created a Discord bot thanks to this tutorial : https://www.youtube.com/watch?v=SLd4d5EqbiM
 
-# Operation
+# How it works
 
 You have to create a file name "config" and declare variable TOKEN.
 
